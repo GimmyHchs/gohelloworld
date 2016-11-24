@@ -1,2 +1,0 @@
-# gohelloworld
-hello world go
