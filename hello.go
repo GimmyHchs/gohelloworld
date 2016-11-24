@@ -6,5 +6,5 @@ func main() {
     iris.Get("/hi", func(ctx *iris.Context) {
         ctx.Write("Hi %s", "iris")
     })
-    iris.Listen(":8080")
+    iris.Listen(":8787")
 }
